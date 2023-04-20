@@ -1,0 +1,12 @@
+.login .signIn button{
+        width: 100%;
+        background-color: rgb(221, 138, 138);
+        border-radius: 10px;
+        height: 40px;
+        font-family:inherit;
+        color:#eee;
+        font-weight: bold;
+        border:none;
+        box-shadow: 0 10px 30px rgb(21, 142, 218);
+        transition: 0.5s;
+}

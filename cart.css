@@ -1,0 +1,10 @@
+.cart-tt ul li{
+    list-style: none;
+    padding: 0 30px;
+    display:flex;
+}
+.cart-tt ul{
+    display: flex;
+    padding: 0 30px;
+
+}

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Web bán hàng</title>
+	<title>ALTTH SHOP</title>
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
     <link rel="stylesheet" href="giaodien.css">
 	<link rel="stylesheet" href="menu.css">
@@ -51,13 +51,7 @@
                     <span class="price--normal">380.000<span>đ</span></span>
                     <span class="price--discount"> -20%</span>
                 </div>
-				<form action="cart.php" method="post">
-                    <input type="number" name="soluong" min="1" max="10" value="1">
-                    <input type="submit" name="addcart" value="Đặt hàng">
-                    <input type="hidden" name="tensp" value="Đồng hồ">
-                    <input type="hidden" name="gia" value="10">
-                    <input type="hidden" name="hinh" value="1.jpg">
-                </form>
+                <button>Mua Hàng</button>
             </div>
             <div class="product">
                 <div class="product__avatar" id="7">
